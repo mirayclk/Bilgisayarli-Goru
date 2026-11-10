@@ -1,0 +1,1 @@
+Kodların kontrolü ve doğrulanması amacıyla Claude yapay zekâ aracından yararlanılmıştır.
